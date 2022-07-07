@@ -1,4 +1,9 @@
-# fireblogs
+# KG Sites
+
+A website dedicated to tourist attractions and interesting events in Kyrgyz Republic.
+
+The website is built using Vue, Vuex, Vue Router, Scss.
+Also a development of backend of the website using Firebase is in progress.
 
 ## Project setup
 ```
